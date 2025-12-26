@@ -4,4 +4,4 @@ This GitHub repo is a showcase of all my coding projects, some are more fun than
 
 If you want to contact or just to connect, feel free to reach out :)
 Email: boscoevangelistasou@gmail.com
-LinkedIn: www.linkedin.com/in/boscoevangelistasou/
+LinkedIn: www.linkedin.com/in/boscosou/
